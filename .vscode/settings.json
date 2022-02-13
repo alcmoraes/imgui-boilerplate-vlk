@@ -1,0 +1,9 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    "cmake.debugConfig":
+    {
+        "stopAtEntry": false,
+        "MIMode": "gdb",
+        "externalConsole": false,
+    }
+}
